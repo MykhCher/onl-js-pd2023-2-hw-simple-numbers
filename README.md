@@ -1,0 +1,1 @@
+Algorythm, that prints out all simple numbers below 100 into console.
